@@ -45,6 +45,9 @@ A short screen recording demonstrating:
 
 👉 **Watch the demo video here:**  
 https://drive.google.com/file/d/1movkWjukjSeHFhtyZ6lXoJNcDk51TZWJ/view?usp=drive_link
+## 🎥 Dashboard Demo
+
+![Demo](images/Dashboard-demo.gif)
 
 ---
 
